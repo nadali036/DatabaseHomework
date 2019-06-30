@@ -19,7 +19,7 @@ public class ReadData {
 
 		try {
 			Class.forName(DatabasesData.JDBC_DRIVER);
-
+			//test
 			conn = DriverManager.getConnection(DatabasesData.DB_URL, DatabasesData.USER, DatabasesData.PASS);
 
 			stmt = conn.createStatement();
