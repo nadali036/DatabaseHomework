@@ -1,0 +1,32 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: resources
+    path: DatabaseHomework/resources
+    type: FOLDER_CHAPTER
+  - chapters:
+    - chapters:
+      - chapters: []
+        name: nadali
+        path: DatabaseHomework/src/com/nadali
+        type: FOLDER_CHAPTER
+      name: com
+      path: DatabaseHomework/src/com
+      type: FOLDER_CHAPTER
+    name: src
+    path: DatabaseHomework/src
+    type: FOLDER_CHAPTER
+  name: DatabaseHomework
+  path: DatabaseHomework
+  type: FOLDER_CHAPTER
+fieldValues:
+  mobile: ''
+  name: ''
+  linkedin: ''
+  position: ''
+  File Name: Test.docx
+  residence: ''
+  email: ''
+name: ROOT
+path: null
+type: null
